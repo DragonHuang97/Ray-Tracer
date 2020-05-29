@@ -1,4 +1,7 @@
-﻿#include <iostream>
+﻿
+// This is a ray tracer implemented by Yuxuan Huang for CSCI 5607
+
+#include <iostream>
 #include <stdio.h>
 #include <fstream>
 #include <sstream>
